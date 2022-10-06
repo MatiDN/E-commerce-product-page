@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [MatiDN's solution](https://github.com/MatiDN/E-commerce-product-page)
-- Live Site URL: [](https://matidn.github.io/E-commerce-product-page/)
+- Live Site URL: [MatiDN's live site](https://matidn.github.io/E-commerce-product-page/)
 
 
 ## My process
